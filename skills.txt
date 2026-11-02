@@ -1,0 +1,120 @@
+python
+java
+c
+c++
+javascript
+sql
+html
+css
+r
+flask
+django
+fastapi
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+tensorflow
+keras
+pytorch
+opencv
+nlp
+machine learning
+deep learning
+data analysis
+data analytics
+data visualization
+data cleaning
+data wrangling
+data modeling
+data mining
+statistics
+hypothesis testing
+regression
+excel
+advanced excel
+pivot tables
+vlookup
+google sheets
+power bi
+power query
+dax
+tableau
+looker
+spss
+sas
+mysql
+postgresql
+sqlite
+oracle
+mongodb
+bigquery
+snowflake
+etl
+data warehousing
+big data
+hadoop
+spark
+git
+github
+docker
+linux
+aws
+azure
+gcp
+rest api
+api
+json
+web scraping
+beautifulsoup
+selenium
+jupyter
+regex
+oop
+data structures
+algorithms
+testing
+pytest
+agile
+scrum
+jira
+communication
+teamwork
+problem solving
+critical thinking
+leadership
+time management
+storytelling
+stakeholder management
+react
+node.js
+typescript
+bootstrap
+android
+kotlin
+php
+wordpress
+seo
+google analytics
+figma
+photoshop
+canva
+digital marketing
+content writing
+accounting
+tally
+business analysis
+project management
+customer support
+sales
+networking
+cybersecurity
+cloud computing
+devops
+kubernetes
+generative ai
+prompt engineering
+llm
